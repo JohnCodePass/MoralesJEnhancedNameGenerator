@@ -1,0 +1,42 @@
+body{
+    overflow-x: hidden;
+}
+.jumbotron {
+    margin: 0 0 0 0;
+}
+.lead{
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.addColor{
+    background-color: #FF9A8B;
+    background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+}
+
+.modBack{
+    background-color: rgb(192, 67, 241);
+    color: white;
+}
+
+.imgCont {
+    background-image: url("https://i.pinimg.com/originals/d0/da/03/d0da0365abf738ed18314e7b9cdda876.jpg");
+    background-position: center;
+}
+
+.topCont {
+    background-color: #21D4FD;
+    background-image: linear-gradient(19deg, #21D4FD 0%, #B721FF 100%);
+}
+
+.footBot {
+    background-color: #21D4FD;
+    background-image: linear-gradient(225deg, #21D4FD 0%, #B721FF 100%);
+    color: purple;
+}
+#listAdded{
+    font-size: 20px;
+    font-weight: bold;
+    /* width: 100%;
+    float: left; */
+}
